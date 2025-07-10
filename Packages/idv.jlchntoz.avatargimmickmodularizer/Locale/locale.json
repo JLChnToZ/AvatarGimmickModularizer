@@ -1,0 +1,71 @@
+{
+  "en": {
+    "_name": "English",
+    "Language": "Editor Language",
+    "GimmickModularizer.Name": "Avatar Gimmick Modularizer",
+    "GimmickModularizer.Description": "This tool is for modularizing avatar accessories/gimmicks installation by packaging the originally \"destructive\" installation script into a \"non-destructive/modularized\" way on a separate avatar.",
+    "GimmickModularizer.Step1": "1. Drop the avatar you are going to work on to below and click \"Clone\".",
+    "GimmickModularizer.Step2": "2. Install your desired accessories/gimmicks to the cloned dummy avatar.",
+    "GimmickModularizer.Step3": "3. After installation, click \"Modularize\" to pack the changes back to the original.",
+    "GimmickModularizer.Step4": "4. If you no longer want to re-install/modify the gimmick, you can safely delete the dummy avatar.",
+    "GimmickModularizer.Note": "Beware this tool only supports installer scripts that adds things to your avatar, it doesn't know what to do if the script destructively remove things from your avatar.\nAlso, please make sure everything else in the dummy avatar is the same as the original avatar, otherwise the modularization may not work properly.",
+    "GimmickModularizer.Clone": "Clone",
+    "GimmickModularizer.Modularize": "Modularize"
+  },
+  "zh-hant": {
+    "_alias": ["zh-tw", "zh-hk", "zh-mo"],
+    "_name": "繁體中文",
+    "Language": "編輯器語言",
+    "GimmickModularizer.Name": "Avatar 小道具模組化工具",
+    "GimmickModularizer.Description": "此工具用於模組化 Avatar 配件/小道具的安裝，將原本腳本「破壞性」地安裝的內容以「非破壞性/模組化」方式打包到一個單獨的 Avatar 上。",
+    "GimmickModularizer.Step1": "1. 將要處理的 Avatar 拖放到下方，然後點擊「複製」。",
+    "GimmickModularizer.Step2": "2. 將所需的配件/小道具安裝到複製版 Avatar 上。",
+    "GimmickModularizer.Step3": "3. 安裝完成後，點擊「模組化」將更改打包回原始 Avatar。",
+    "GimmickModularizer.Step4": "4. 如果您不再需要重新安裝或修改小道具，可以安全地刪除複製版 Avatar。",
+    "GimmickModularizer.Note": "請注意，此工具僅支援增加內容到 Avatar 的安裝腳本，如果腳本包含破壞性地移除內容的操作，則無法正確處理。\n同時，請確保複製版 Avatar 的其他內容與原始 Avatar 相同，否則模組化可能無法正常工作。",
+    "GimmickModularizer.Clone": "複製",
+    "GimmickModularizer.Modularize": "模組化"
+  },
+  "zh-hans": {
+    "_alias": ["zh-cn", "zh-sg"],
+    "_name": "简体中文",
+    "Language": "编辑器语言",
+    "GimmickModularizer.Name": "Avatar 小道具模块化工具",
+    "GimmickModularizer.Description": "此工具用于模块化 Avatar 配件/小道具的安装，将原本脚本「破坏性」地安装的内容以「非破坏性/模块化」方式打包到一个单独的 Avatar 上。",
+    "GimmickModularizer.Step1": "1. 将要处理的 Avatar 拖放到下方，然后点击「克隆」。",
+    "GimmickModularizer.Step2": "2. 将所需的配件/小道具安装到克隆版 Avatar 上。",
+    "GimmickModularizer.Step3": "3. 安装完成后，点击「模块化」将更改打包回原始 Avatar。",
+    "GimmickModularizer.Step4": "4. 如果您不再需要重新安装或修改小道具，可以安全地删除克隆版 Avatar。",
+    "GimmickModularizer.Note": "请注意，此工具仅支持增加内容到 Avatar 的安装脚本，如果脚本包含破坏性地移除内容的操作，则无法正确处理。\n同时，请确保克隆版 Avatar 的其他内容与原始 Avatar 相同，否则模块化可能无法正常工作。",
+    "GimmickModularizer.Clone": "克隆",
+    "GimmickModularizer.Modularize": "模块化"
+  },
+  "ja": {
+    "_name": "日本語",
+    "Language": "エディタ言語",
+    "MachineTranslationMessage": "この言語は機械翻訳で翻訳されているため、不正確な場合があります。",
+    "GimmickModularizer.Name": "アバターギミックモジュラー化ツール",
+    "GimmickModularizer.Description": "このツールは、元々「破壊的」なインストールスクリプトを別のアバター上で「非破壊的/モジュラー化」された方法でパッケージ化することにより、アバターアクセサリー/ギミックのインストールをモジュラー化するためのものです。",
+    "GimmickModularizer.Step1": "1. 作業するアバターを下にドロップし、「クローン」をクリックします。",
+    "GimmickModularizer.Step2": "2. クローンしたダミーアバターに必要なアクセサリーやギミックをインストールします。",
+    "GimmickModularizer.Step3": "3. インストール後、「モジュラー化」をクリックして、変更を元のアバターにパッケージ化します。",
+    "GimmickModularizer.Step4": "4. ギミックの再インストールや変更を行わない場合は、ダミーアバターを安全に削除できます。",
+    "GimmickModularizer.Note": "このツールは、アバターにコンテンツを追加するインストーラスクリプトのみをサポートしています。スクリプトがアバターからコンテンツを破壊的に削除する場合、何をすべきかはわかりません。\nまた、ダミーアバターの他のすべてが元のアバターと同じであることを確認してください。そうしないと、モジュラー化が正しく機能しない可能性があります。",
+    "GimmickModularizer.Clone": "クローン",
+    "GimmickModularizer.Modularize": "モジュラー化"
+  },
+  "ko": {
+    "_name": "한국어",
+    "Language": "에디터 언어",
+    "MachineTranslationMessage": "이 언어는 기계 번역으로 번역되었으며 정확하지 않을 수 있습니다.",
+    "GimmickModularizer.Name": "아바타 기믹 모듈화 도구",
+    "GimmickModularizer.Description": "이 도구는 원래 \"파괴적\"인 설치 스크립트를 별도의 아바타에서 \"비파괴적/모듈화된\" 방식으로 패키징하여 아바타 액세서리/기믹 설치를 모듈화하는 데 사용됩니다.",
+    "GimmickModularizer.Step1": "1. 작업할 아바타를 아래에 드롭하고 \"클론\"을 클릭합니다.",
+    "GimmickModularizer.Step2": "2. 클론된 더미 아바타에 원하는 액세서리/기믹을 설치합니다.",
+    "GimmickModularizer.Step3": "3. 설치 후 \"모듈화\"를 클릭하여 변경 사항을 원래 아바타에 패키징합니다.",
+    "GimmickModularizer.Step4": "4. 더 이상 기믹을 재설치하거나 수정할 필요가 없다면, 더미 아바타를 안전하게 삭제할 수 있습니다.",
+    "GimmickModularizer.Note": "이 도구는 아바타에 콘텐츠를 추가하는 설치 스크립트만 지원합니다. 스크립트가 아바타에서 콘텐츠를 파괴적으로 제거하는 경우, 이 도구는 어떻게 처리해야 할지 알지 못합니다.\n또한, 더미 아바타의 다른 모든 것이 원래 아바타와 동일한지 확인하세요. 그렇지 않으면 모듈화가 제대로 작동하지 않을 수 있습니다.",
+    "GimmickModularizer.Clone": "클론",
+    "GimmickModularizer.Modularize": "모듈화"
+  }
+}
